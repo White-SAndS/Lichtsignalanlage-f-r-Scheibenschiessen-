@@ -15,7 +15,7 @@ und 3 mal:
 ![71b9yM7dFlL _SX466_](https://user-images.githubusercontent.com/55184135/228845776-24f1171e-391e-4980-8c2d-bed19e2b098e.jpg)
 
 
-und gesteuert werden mit der folgenden Software:
+und gesteuert werden mit der folgenden Software https://kno.wled.ge/:
 
 ![wled_logo_akemi](https://user-images.githubusercontent.com/55184135/228845879-2eab03f3-c0b2-4ce9-9be2-73b232b241f3.png)
 
